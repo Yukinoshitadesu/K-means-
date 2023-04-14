@@ -1,7 +1,8 @@
 # K-means-
 主要幫你快速數據處裡，並產生聚類的小工具
 
-`py``
+```python
+
     import matplotlib.pyplot as plt
     import seaborn as sns; sns.set()
     import numpy as np
